@@ -7,3 +7,7 @@ Data Science Portfolio
 
 
 # [Project 2: Predicting E-commerce Customer Reviews](https://github.com/mitchellaldridge/Predicting-Ecommerce-Customer-Reviews)
+
+
+
+# [Project 3: Working with Big Data through PySpark and Scala](https://github.com/mitchellaldridge/PySpark-Scala-Steam-Review-Analysis)

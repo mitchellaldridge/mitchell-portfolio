@@ -8,7 +8,7 @@ I am a masters student in Data Science at UW-Green Bay in my final 2 semesters. 
 This is a project done through kaggle for one of their machine learning competitions where the goal is to predict house sale prices.
 
 * The analysis is done in Python using libraries such as Pandas, Numpy and Scikit-Learn
-* Performed EDA, Data Cleaning to prepare the data set for model training
+* Performed EDA and Data Cleaning to prepare the data set for model training
 * Used a Pipeline to impute missing data
 * Gets best score from many different regression techniques such as XGBoost, Lasso, Random Forest
 * Selects best models from baseline search and preforms hyperparameter tuning for model improvement
@@ -19,7 +19,7 @@ This is a project done through kaggle for one of their machine learning competit
 This project was done as a final project in my masters level machine learning course to predict customer reviews for an ecommerce website.
 
 * The analysis is done in R using libraries such as Tidyverse and Caret
-* Showcases EDA and Data Cleaning
+* Performed EDA and Data cleaning to prepare the data set for model training
 * Uses Double Cross Validation to select the best honest prediction of the best model between Linear Regression and Random Forest
 * Includes variable importance visualizations
 * Includes a final report detailing every part of the machine learning process

@@ -1,12 +1,15 @@
 # Mitchell Aldridge Data Science Portfolio
 
+# About Me
+I am a masters student in Data Science at UW-Green Bay in my final 2 semesters. I have experience with Python, R, SQL and Tableau.
+
 # [Project 1: House Sale Price Predictions](https://github.com/mitchellaldridge/House-Sale-Price-Prediction)
 
 This is a project done through kaggle for one of their machine learning competitions where the goal is to predict house sale prices.
 
 * The analysis is done in Python using libraries such as Pandas, Numpy and Scikit-Learn
-* Showcases EDA and Data Cleaning
-* Uses a Pipeline to impute the data
+* Performed EDA, Data Cleaning to prepare the data set for model training
+* Used a Pipeline to impute missing data
 * Gets best score from many different regression techniques such as XGBoost, Lasso, Random Forest
 * Selects best models from baseline search and preforms hyperparameter tuning for model improvement
 

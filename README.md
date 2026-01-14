@@ -33,3 +33,10 @@ This project showcases skills using Spark Scala and PySpark to answer questions 
 
 
 # [Project 4: Life Expectancy Trends from Healthcare Spending in Tableau](https://github.com/mitchellaldridge/Tableau-Dashboard-Healthcare)
+
+This project was done to showcase how government spending on healthcare affects life expectancy globally
+
+* The EDA and data cleaning was done in R
+* A commented report can be found in the Final EDA & Report document
+* The data was then brough to tableau for an interactive dashboard
+* The dashboard allows users to view different countries and regions and the differences in life expectancy and healthcare spending

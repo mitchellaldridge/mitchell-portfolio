@@ -25,5 +25,12 @@ This project was done as a final project in my masters level machine learning co
 
 # [Project 3: Working with Big Data through PySpark and Scala](https://github.com/mitchellaldridge/PySpark-Scala-Steam-Review-Analysis)
 
+This project showcases skills using Spark Scala and PySpark to answer questions in Big Data
+
+* The work was originally done in Apache Zepellin using Scala
+* A copy of the work is also available in PySpark, using a subsample of the dataset for usability through github
+* This project showcases the power of big data tools such as Spark through languages Scala and PySpark
+* The questions being answered can be found in the Q&A document, as well as the output from the full dataset
+
 
 # [Project 4: Life Expectancy Trends from Healthcare Spending in Tableau](https://github.com/mitchellaldridge/Tableau-Dashboard-Healthcare)

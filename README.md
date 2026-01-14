@@ -39,7 +39,7 @@ This project showcases skills using Spark Scala and PySpark to answer questions 
 
 This project was done to showcase how government spending on healthcare affects life expectancy globally
 
-* The EDA and data cleaning was done in R
-* A commented report can be found in the Final EDA & Report document
-* The data was then brough to tableau for an interactive dashboard
+* Performed EDA and Data Cleaning in R
+* Found future trends using linear regression
+* Created an interactive dashboard in Tableau to allow users hands on visualizations
 * The dashboard allows users to view different countries and regions and the differences in life expectancy and healthcare spending

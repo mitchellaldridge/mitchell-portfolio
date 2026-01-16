@@ -27,7 +27,7 @@ This project was done as a final project in my masters level machine learning co
 
 # [Project 3: Working with Big Data through PySpark and Scala](https://github.com/mitchellaldridge/PySpark-Scala-Steam-Review-Analysis)
 
-This project showcases skills using Spark Scala and PySpark to answer questions in Big Data
+This project showcases skills using Spark (Scala & PySpark) to answer questions in Big Data
 
 * The work was originally done in Apache Zepellin using Scala
 * A copy of the work is also available in PySpark, using a subsample of the dataset for usability through github

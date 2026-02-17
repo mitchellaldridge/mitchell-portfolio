@@ -1,7 +1,7 @@
 # Mitchell Aldridge Data Science Portfolio
 
 ## About Me
-I am a masters student in Data Science at UW-Green Bay in my final 2 semesters. I have experience with Python, R, SQL, Spark and Tableau.
+I am a masters student in Data Science at UW-Green Bay in my final 2 semesters. I have experience with Python, R, SQL, Spark, Excel and Tableau.
 
 # [Project 1: House Sale Price Predictions](https://github.com/mitchellaldridge/House-Sale-Price-Prediction)
 

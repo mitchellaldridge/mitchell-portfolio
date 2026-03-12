@@ -3,15 +3,27 @@
 ## About Me
 I am a masters student in Data Science at UW-Green Bay in my final 2 semesters. I have experience with Python, R, SQL, Spark, Excel and Tableau.
 
-# [Project 1: House Sale Price Predictions](https://github.com/mitchellaldridge/House-Sale-Price-Prediction)
+# [Project 1: Northwind SQL Business Analysis](https://github.com/mitchellaldridge/northwind-sql-analysis)
 
-This is a project done through kaggle for one of their machine learning competitions where the goal is to predict house sale prices.
+This project uses the popular Northwind database to perform business data analysis in PostgreSQL.
 
-* The analysis is done in Python using libraries such as Pandas, Numpy and Scikit-Learn
+* The analysis is done is 
 * Performed EDA and Data Cleaning to prepare the data set for model training
 * Used a Pipeline to impute missing data
 * Gets best score from many different regression techniques such as XGBoost, Lasso, Random Forest
 * Selects best models from baseline search and preforms hyperparameter tuning for model improvement
+
+
+# [Project 1: House Sale Price Predictions](https://github.com/mitchellaldridge/House-Sale-Price-Prediction)
+
+This project analyzes business performance using the Northwind database to answer real-world sales, customer, product, and employee performance questions using PostgreSQL.
+
+* The analysis is performed in PostgreSQL using complex SQL queries and analytical techniques
+* Built multi-table joins across customers, orders, products, categories, and employees to analyze business operations
+* Used Common Table Expressions (CTEs) to structure complex analytical queries
+* Applied window functions such as `DENSE_RANK()` and `LAG()` to analyze ranking changes and revenue trends
+* Performed customer analysis to identify high-value customers and revenue concentration
+* Evaluated product performance by ranking products within categories and tracking top performers over time
 
 
 # [Project 2: Predicting E-commerce Customer Reviews](https://github.com/mitchellaldridge/Predicting-Ecommerce-Customer-Reviews)

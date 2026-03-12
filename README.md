@@ -5,17 +5,6 @@ I am a masters student in Data Science at UW-Green Bay in my final 2 semesters. 
 
 # [Project 1: Northwind SQL Business Analysis](https://github.com/mitchellaldridge/northwind-sql-analysis)
 
-This project uses the popular Northwind database to perform business data analysis in PostgreSQL.
-
-* The analysis is done is 
-* Performed EDA and Data Cleaning to prepare the data set for model training
-* Used a Pipeline to impute missing data
-* Gets best score from many different regression techniques such as XGBoost, Lasso, Random Forest
-* Selects best models from baseline search and preforms hyperparameter tuning for model improvement
-
-
-# [Project 2: House Sale Price Predictions](https://github.com/mitchellaldridge/House-Sale-Price-Prediction)
-
 This project analyzes business performance using the Northwind database to answer real-world sales, customer, product, and employee performance questions using PostgreSQL.
 
 * The analysis is performed in PostgreSQL using complex SQL queries and analytical techniques
@@ -24,6 +13,17 @@ This project analyzes business performance using the Northwind database to answe
 * Applied window functions such as `DENSE_RANK()` and `LAG()` to analyze ranking changes and revenue trends
 * Performed customer analysis to identify high-value customers and revenue concentration
 * Evaluated product performance by ranking products within categories and tracking top performers over time
+
+
+# [Project 2: House Sale Price Predictions](https://github.com/mitchellaldridge/House-Sale-Price-Prediction)
+
+This is a project done through kaggle for one of their machine learning competitions where the goal is to predict house sale prices.
+
+* The analysis is done in Python using libraries such as Pandas, Numpy and Scikit-Learn
+* Performed EDA and Data Cleaning to prepare the data set for model training
+* Used a Pipeline to impute missing data
+* Gets best score from many different regression techniques such as XGBoost, Lasso, Random Forest
+* Selects best models from baseline search and preforms hyperparameter tuning for model improvement
 
 
 # [Project 3: Predicting E-commerce Customer Reviews](https://github.com/mitchellaldridge/Predicting-Ecommerce-Customer-Reviews)

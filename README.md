@@ -14,7 +14,7 @@ This project uses the popular Northwind database to perform business data analys
 * Selects best models from baseline search and preforms hyperparameter tuning for model improvement
 
 
-# [Project 1: House Sale Price Predictions](https://github.com/mitchellaldridge/House-Sale-Price-Prediction)
+# [Project 2: House Sale Price Predictions](https://github.com/mitchellaldridge/House-Sale-Price-Prediction)
 
 This project analyzes business performance using the Northwind database to answer real-world sales, customer, product, and employee performance questions using PostgreSQL.
 
@@ -26,7 +26,7 @@ This project analyzes business performance using the Northwind database to answe
 * Evaluated product performance by ranking products within categories and tracking top performers over time
 
 
-# [Project 2: Predicting E-commerce Customer Reviews](https://github.com/mitchellaldridge/Predicting-Ecommerce-Customer-Reviews)
+# [Project 3: Predicting E-commerce Customer Reviews](https://github.com/mitchellaldridge/Predicting-Ecommerce-Customer-Reviews)
 
 This project was done as a final project in my masters level machine learning course to predict customer reviews for an ecommerce website.
 
@@ -37,7 +37,7 @@ This project was done as a final project in my masters level machine learning co
 * Includes a final report detailing every part of the machine learning process
 
 
-# [Project 3: Working with Big Data through PySpark and Scala](https://github.com/mitchellaldridge/PySpark-Scala-Steam-Review-Analysis)
+# [Project 4: Working with Big Data through PySpark and Scala](https://github.com/mitchellaldridge/PySpark-Scala-Steam-Review-Analysis)
 
 This project showcases skills using Spark (Scala & PySpark) to answer questions in Big Data
 
@@ -47,7 +47,7 @@ This project showcases skills using Spark (Scala & PySpark) to answer questions 
 * The questions being answered can be found in the Q&A document, as well as the output from the full dataset
 
 
-# [Project 4: Life Expectancy Trends from Healthcare Spending in Tableau](https://github.com/mitchellaldridge/Tableau-Dashboard-Healthcare)
+# [Project 5: Life Expectancy Trends from Healthcare Spending in Tableau](https://github.com/mitchellaldridge/Tableau-Dashboard-Healthcare)
 
 This project was done to showcase how government spending on healthcare affects life expectancy globally
 

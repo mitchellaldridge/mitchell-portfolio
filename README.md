@@ -1,7 +1,7 @@
 # Mitchell Aldridge Data Science Portfolio
 
 ## About Me
-I am a masters student in Data Science at UW-Green Bay in my final 2 semesters. I have experience with Python, R, SQL, Spark, Excel and Tableau.
+I am a recent graduate of the University of Wisconsin - Green Bay's Masters of Data Science program. I am currently an intern at TruStage on their B2B Sales Analytics team.
 
 # [Project 1: Northwind SQL Business Analysis](https://github.com/mitchellaldridge/northwind-sql-analysis)
 

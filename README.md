@@ -3,7 +3,20 @@
 ## About Me
 I am a recent graduate of the University of Wisconsin - Green Bay's Masters of Data Science program. I am currently an intern at TruStage on their B2B Sales Analytics team.
 
-# [Project 1: Northwind SQL Business Analysis](https://github.com/mitchellaldridge/northwind-sql-analysis)
+# [Project 1: Employee Attrition Prediction & Workforce Segmentation](https://github.com/mitchellaldridge/Capstone_Project/tree/main)
+
+This project was done to predict employee attrition through machine learning techniques.
+
+* Built an end-to-end machine learning workflow in Python using Pandas, scikit-learn, XGBoost, and imbalanced-learn
+* Performed EDA, feature engineering, data cleaning, encoding, scaling, and class-imbalance handling on ~850,000 employee records
+* Compared Logistic Regression, Random Forest, and XGBoost models using precision, recall, F1 score, and ROC-AUC
+* Tuned Random Forest and XGBoost with RandomizedSearchCV and 5-fold cross-validation
+* Improved XGBoost recall from 66.0% to 91.0% through classification-threshold optimization
+* Used feature importance to identify stress, burnout, satisfaction, sentiment, and workload as key predictive factors
+* Applied K-Means clustering and PCA to segment employees and evaluate whether segmentation improved predictive performance
+* Found that clustering was more useful for descriptive workforce analysis than for improving the global prediction model
+
+# [Project 2: Northwind SQL Business Analysis](https://github.com/mitchellaldridge/northwind-sql-analysis)
 
 This project analyzes business performance using the Northwind database to answer real-world sales, customer, product, and employee performance questions using PostgreSQL.
 
@@ -15,7 +28,7 @@ This project analyzes business performance using the Northwind database to answe
 * Evaluated product performance by ranking products within categories and tracking top performers over time
 
 
-# [Project 2: House Sale Price Predictions](https://github.com/mitchellaldridge/House-Sale-Price-Prediction)
+# [Project 3: House Sale Price Predictions](https://github.com/mitchellaldridge/House-Sale-Price-Prediction)
 
 This is a project done through kaggle for one of their machine learning competitions where the goal is to predict house sale prices.
 
@@ -26,7 +39,7 @@ This is a project done through kaggle for one of their machine learning competit
 * Selects best models from baseline search and preforms hyperparameter tuning for model improvement
 
 
-# [Project 3: Predicting E-commerce Customer Reviews](https://github.com/mitchellaldridge/Predicting-Ecommerce-Customer-Reviews)
+# [Project 4: Predicting E-commerce Customer Reviews](https://github.com/mitchellaldridge/Predicting-Ecommerce-Customer-Reviews)
 
 This project was done as a final project in my masters level machine learning course to predict customer reviews for an ecommerce website.
 
@@ -35,16 +48,6 @@ This project was done as a final project in my masters level machine learning co
 * Uses Double Cross Validation to select the best honest prediction of the best model between Linear Regression and Random Forest
 * Includes variable importance visualizations
 * Includes a final report detailing every part of the machine learning process
-
-
-# [Project 4: Working with Big Data through PySpark and Scala](https://github.com/mitchellaldridge/PySpark-Scala-Steam-Review-Analysis)
-
-This project showcases skills using Spark (Scala & PySpark) to answer questions in Big Data
-
-* The work was originally done in Apache Zepellin using Scala
-* A copy of the work is also available in PySpark, using a subsample of the dataset for usability through github
-* This project showcases the power of big data tools such as Spark through languages Scala and PySpark
-* The questions being answered can be found in the Q&A document, as well as the output from the full dataset
 
 
 # [Project 5: Life Expectancy Trends from Healthcare Spending in Tableau](https://github.com/mitchellaldridge/Tableau-Dashboard-Healthcare)

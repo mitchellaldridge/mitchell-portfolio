@@ -5,7 +5,7 @@ I am a recent graduate of the University of Wisconsin - Green Bay's Masters of D
 
 # [Project 1: Employee Attrition Prediction & Workforce Segmentation](https://github.com/mitchellaldridge/Capstone_Project/tree/main)
 
-This project was done to predict employee attrition through machine learning techniques.
+This project developed and evaluated machine learning models to predict employee attrition and explored whether workforce segmentation could improve predictive performance.
 
 * Built an end-to-end machine learning workflow in Python using Pandas, scikit-learn, XGBoost, and imbalanced-learn
 * Performed EDA, feature engineering, data cleaning, encoding, scaling, and class-imbalance handling on ~850,000 employee records
@@ -14,7 +14,6 @@ This project was done to predict employee attrition through machine learning tec
 * Improved XGBoost recall from 66.0% to 91.0% through classification-threshold optimization
 * Used feature importance to identify stress, burnout, satisfaction, sentiment, and workload as key predictive factors
 * Applied K-Means clustering and PCA to segment employees and evaluate whether segmentation improved predictive performance
-* Found that clustering was more useful for descriptive workforce analysis than for improving the global prediction model
 
 # [Project 2: Northwind SQL Business Analysis](https://github.com/mitchellaldridge/northwind-sql-analysis)
 

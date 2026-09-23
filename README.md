@@ -3,7 +3,7 @@
 ## About Me
 I am a recent graduate of the University of Wisconsin - Green Bay's Masters of Data Science program. I am currently an intern at TruStage on their B2B Sales Analytics team.
 
-# [Project 1: Credit Union Loan Forecast](https://github.com/mitchellaldridge/Tableau-Dashboard-Healthcare](https://github.com/mitchellaldridge/Credit-Union-Loan-Forecast)
+# [Project 1: Credit Union Loan Forecast](https://github.com/mitchellaldridge/Credit-Union-Loan-Forecast)
 
 This project was developed during my Data Analyst internship at TruStage to forecast eligible loan volumes across hundreds of credit unions using public NCUA data.
 
